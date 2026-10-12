@@ -1,6 +1,6 @@
 # Gauteng Handyman Services — Website Concept
 
-A responsive single-page website concept prepared by **Auris Nexus Technologies** as a private sales demonstration for Gauteng Handyman Services. The refreshed visual direction uses white, light grey, charcoal and professional green, with a practical, approachable layout.
+A responsive single-page website concept prepared by **Auris Nexus Technologies** as a private sales demonstration for Gauteng Handyman Services. The refreshed visual direction uses white, light grey, charcoal and professional green, with a practical, approachable layout, consistent line-style service icons, social-sharing metadata, accessible focus states and clearer service copy.
 
 ## Preview locally
 Open `index.html` in a browser. No build step is required.
